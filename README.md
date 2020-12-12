@@ -1,4 +1,4 @@
-# Prayuth
+# PryU
 Pre-Register at your University Project
 
 https://preregis.kmutt.me
@@ -73,4 +73,3 @@ Source code is in src folder
 | 61070501041   | POOMPHOB SUWANNAPICHAT   |
 | 61070501043   | YODSAKORN NUNPAN       |
 | 61070501067   | WATCHARAKORN KITIWONG       |
-# PryU
